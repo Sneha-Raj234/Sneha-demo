@@ -1,2 +1,2 @@
 # Sneha-demo
-A demo for github class
+A demo for git and github class
